@@ -1,0 +1,10 @@
+.banner-image{
+    width: 100%;
+    height: inherit;
+    margin-left: auto;
+    margin-right: auto;
+}
+main{
+    height: 100vh;
+    position: relative;
+}
